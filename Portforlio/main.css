@@ -1,0 +1,10 @@
+body {
+    background: rgb(0, 31, 34);
+    background: linear-gradient(90deg, rgba(0, 31, 34, 1) 20%, rgba(2, 0, 36, 1) 25%, rgba(1, 142, 133, 1) 53%, rgba(35, 100, 115, 1) 82%, rgba(1, 147, 234, 1) 100%);
+    color: aqua;
+}
+
+img {
+    width: 50%;
+    align-content: center;
+}
