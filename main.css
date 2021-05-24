@@ -207,12 +207,15 @@ footer {
 
 #cplusplus {
     background-color: rgba(6, 8, 146, 0.527);
+    width: 100%;
 }
 
 #csharp {
     background-color: rgba(218, 21, 192, 0.281);
+    width: 100%;
 }
 
 #unity {
     background-color: rgba(26, 3, 23, 0.705);
+    width: 100%;
 }
