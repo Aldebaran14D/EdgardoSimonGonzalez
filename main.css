@@ -75,12 +75,46 @@ nav ul li a:hover {
     transform: scale(1.2);
 }
 
-footer {
-    text-align: center;
+#footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
     background-color: black;
-    height: 100px;
+    height: auto;
     width: 100%;
     margin-top: 25px;
+}
+
+#footer img {
+    width: 18%;
+    height: 20%;
+    margin: 0;
+    padding: 0;
+}
+
+#footer div {
+    margin: 0;
+    justify-content: end;
+    text-align: center;
+    font-size: 15px;
+    width: 500px;
+}
+
+#footer div div {
+    margin: 0;
+    flex-direction: row;
+    justify-content: end;
+    text-align: center;
+    font-size: 15px;
+    display: inline-block;
+    width: 500px;
+}
+
+#footer div div img {
+    height: 100px;
+    width: 100px;
 }
 
 section.lenguajes {
