@@ -7,17 +7,7 @@ body {
     margin: 0;
     background: linear-gradient(90deg, rgba(0, 31, 34, 1) 20%, rgba(2, 0, 36, 1) 25%, rgba(1, 142, 133, 1) 53%, rgba(35, 100, 115, 1) 82%, rgba(1, 147, 234, 1) 100%);
     color: aqua;
-    ;
-    /*text-size-adjust: 50px;*/
 }
-
-
-/*body>div>div {
-    background: rgb(0, 0, 0);
-    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 27%, rgba(0, 0, 0, 0.6333333333333333) 66%, rgba(0, 0, 0, 0) 100%);
-    text-align: center;
-    color: blue;
-}*/
 
 .header {
     text-align: center;
@@ -26,8 +16,6 @@ body {
     top: 0;
     margin: 0;
     background-color: rgba(6, 84, 90, );
-    /*background: linear-gradient(90deg, rgba(0, 31, 34, 1) 20%, rgba(2, 0, 36, 1) 25%, rgba(1, 142, 133, 1) 53%, rgba(35, 100, 115, 1) 82%, rgba(1, 147, 234, 1) 100%);
-    color: aqua;*/
 }
 
 img {
@@ -44,7 +32,6 @@ img {
     position: relative;
     top: 0;
     margin: 0;
-    /*background-color: rgba(6, 84, 90, );*/
 }
 
 .imgcabezera .head {
@@ -131,8 +118,6 @@ section.lenguajes>article img {
 }
 
 section.lenguajes>article img:hover {
-    /*height: 150px;
-    width: 150px;*/
     border-radius: 5%;
     background-color: white;
 }
