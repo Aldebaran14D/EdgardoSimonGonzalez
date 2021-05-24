@@ -23,8 +23,6 @@ img {
     height: auto;
     width: 50%;
     margin: 60px;
-    border-top-left-radius: 25%;
-    border-bottom-right-radius: 25%;
 }
 
 .imgcabezera {
@@ -184,13 +182,16 @@ section.proyectos article {
 section.proyectos article img {
     height: 200px;
     width: 300px;
-    background-color: azure;
-    border-radius: 5%;
+    background-color: rgb(10, 12, 12);
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
     transition: 0.2s;
 }
 
-section.proyectos article img:hover {
+section.proyectos article img.juego:hover {
     background-color: slategrey;
+    /*border: 3px solid fuchsia;*/
+    transform: scale(1.2);
 }
 
 section.proyectos article p {
