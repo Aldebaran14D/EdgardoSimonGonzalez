@@ -113,8 +113,8 @@ nav ul li a:hover {
 }
 
 #footer div div img {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
 }
 
 section.lenguajes {
@@ -195,7 +195,7 @@ section.proyectos article img:hover {
 section.proyectos article p {
     width: 50%;
     text-align: left;
-    font-size: 30px
+    font-size: 25px
 }
 
 footer {
